@@ -10,12 +10,8 @@
 
 </h3>
 <h4 class="category-description">Detailed version change log describe below.</h4>
-<pre>
 <strong>v1.0</strong>
 -----------
 
 <strong>01-02-2018 - v1.0 Release </strong>
-
-
-							</pre>
 </div>
